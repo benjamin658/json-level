@@ -1,0 +1,14 @@
+{
+  "name": "json-level",
+  "version": "1.0.0",
+  "description": "Calculate the given JSON object's depth.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Ben Hu <benjamin658gae@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
