@@ -1,6 +1,12 @@
 # json level
 
+[![Build Status](https://travis-ci.org/benjamin658/json-level.svg?branch=master)](https://travis-ci.org/benjamin658/json-level)
+
 Calculate the given JSON object's depth.
+
+## Installation
+
+`npm install json-level --save`
 
 ## Example
 
