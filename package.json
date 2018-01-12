@@ -6,6 +6,13 @@
   "scripts": {
     "test": "ava"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin658/json-level.git"
+  },
+  "keywords": [
+    "json"
+  ],
   "author": "Ben Hu <benjamin658gae@gmail.com>",
   "license": "ISC",
   "devDependencies": {
